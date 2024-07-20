@@ -21,7 +21,7 @@ How to FTP into PS4 and view the contents of the HDD guide
 If you have a mismatched Update file use this option along with the base game you have to remarry the Update file data and generate one compatible with the base game.   
         
 2. Merge Game + Update      
-If you'd like to install a game as 1 file use this option.      
+If you'd like to install a game as 1 file or save hdd space use this option.      
         
 3. Backup Backported Files    
 Choose a file that has previously had work done to make it compatible with lower firmware and backup the *backport* data. It will be turned into a .zip archive file.      
@@ -32,22 +32,22 @@ This will let you build the data from 3. along with the base game and update and
 5. Merge Game + Update + Backport    
 Use this option to manually create your own lower firmware AIO backported game using the base game a update and the backport data created from 3. and 4. which allows it to work on lower firmware.        
      
-6. Fix Game Info          
+6. Fix Game Info               
 Unsure. :/ try it and find out :)        
       
-7. DLC - Change Region     
+7. DLC - Change Region         
 Change the region of a FPKG DLC file (you may need the product code region and unique number ID of both the original game and the alternate game region you want to convert it to)
      
-8. PS4 DLC Unlocker    
+8. PS4 DLC Unlocker            
 Unsure. :/ try it and find out :)    
      
-9. Without Data DLC to Data DLC
+9. Without Data DLC to Data DLC      
 Unsure. :/ try it and find out :)    
       
-10. Data DLC to Without Data DLC
+10. Data DLC to Without Data DLC      
 Unsure. :/ try it and find out :)        
       
-11. Update - Change Region
+11. Update - Change Region      
 Change the region of a FPKG Update file (you may need the  product code region and unique number ID of both the source region and the      
         
 12. Save sharing between US/EU Games           

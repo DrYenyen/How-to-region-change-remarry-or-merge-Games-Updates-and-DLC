@@ -1,12 +1,5 @@
 # How-to-region-change-remarry-and-or-merge-Games-Updates-and-DLC
 How to region change, remarry and or merge Games, Updates and DLC   
-
-# Instalation 
-Download the *PS4-AiO v27.zip* and unpack it in a new folder.    
-      
-Run the *PS4-AiO v27* for the first run type *yes* and press enter.      
-          
-This folder will be used for all the workflow.    
      
       
 # The PS4 system game structure  
@@ -65,6 +58,13 @@ Change the region of a FPKG Update file (you may need the  product code region a
 12. Save sharing between US/EU Games           
 Convert a save file to another region         
       
+# Instalation 
+Download the *PS4-AiO v27.zip* and unpack it in a new folder.    
+      
+Run the *PS4-AiO v27* for the first run type *yes* and press enter.      
+          
+This folder will be used for all the workflow.       
+     
 # <ins>Usage Instructions<ins>                
       
 # 1. Remarry Game + Update    

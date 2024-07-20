@@ -17,8 +17,7 @@ Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*
 How to FTP into PS4 and view the contents of the HDD guide        
     
 # This explains what each option in the tool does to my knowledge    
-1. Remarry Game + Update     
-          
+1. Remarry Game + Update         
 If you have a mismatched Update file use this option along with the base game you have to remarry the Update file data and generate one compatible with the base game.   
         
 2. Merge Game + Update      

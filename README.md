@@ -15,18 +15,18 @@ Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*
 5. Additionally Screenshots and Videos are in /user/av_content/    
 How to FTP into PS4 and view the contents of the HDD guide        
     
-# This explains what each option in the tool does    
-# 1. Remarry Game + Update      
+# This explains what each option in the tool does to my knowledge    
+# 1. Remarry Game + Update         
 If you have a mismatched Update file use this option along with the base game you have to remarry them.   
         
 # 2. Merge Game + Update    
 If you'd like to install a game as 1 file use this option.      
         
 # 3. Backup Backported Files    
-Choose a file that has previously had work done to make it compatible with lower firmware and backup the *backport* data.    
+Choose a file that has previously had work done to make it compatible with lower firmware and backup the *backport* data. It will be turned into a .zip archive file.      
        
 # 4. PS4 Rebuild PKG - Backport       
-This will let you build the data from 3. into a PKG    
+This will let you build the data from 3. along with the base game and update and create a Backport UPDATE(base game will still need to be installed or merged via option 2. Merge Game + Update     
         
 # 5. Merge Game + Update + Backport    
 Use this option to manually create your own lower firmware AIO backported game using the base game a update and the backport data created from 3. and 4. which allows it to work on lower firmware.        
@@ -47,9 +47,30 @@ Unsure. :/ try it and find out :)
 Unsure. :/ try it and find out :)        
       
 # 11. Update - Change Region
-Change the region of a FPKG Update file (you may need the  product code region and unique number ID of both the source region and the 
+Change the region of a FPKG Update file (you may need the  product code region and unique number ID of both the source region and the      
+        
+# 12. Save sharing between US/EU Games           
+Convert a save file to another region         
       
-# 12. Save sharing between US/EU Games       
-Convert a save file to another region      
-      
+# Usage instructions        
 
+# 1. Remarry Game + Update    
+Place the base game you have in the **Game** folder   
+Place the update file in the **Update** folder     
+Run the *PS4 v27* file and type 1 in the CMD window then press enter and wait the larger the files the longer the proccess       
+          
+# 2. Merge Game + Update   
+Place the base game you have in the **Game** folder      
+Place a COMPATIBLE update file in the **Update** folder       
+Run the *PS4 v27* file and type 2 in the CMD window then press enter and wait the larger the files the longer the proccess        
+     
+# 3. Backup Backported Files        
+Place the backported pkg you have in the **Backport** folder         
+Run the *PS4 v27* file and type 3 in the CMD window then press enter and wait the larger the files the longer the proccess               
+     
+# 4. PS4 Rebuild PKG - Backport     
+Place the base game you have in the **Game** folder  
+Place the update file in the **Update** folder     
+Place .zip archive file you get from 3. Backup Backported Files or one you have sourced yourself       
+Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess       
+THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR TO MERGE IT WITH 2. Merge Game + Update        

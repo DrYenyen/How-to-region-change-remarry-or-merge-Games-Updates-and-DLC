@@ -20,7 +20,7 @@ How to FTP into PS4 and view the contents of the HDD guide
 # 1. Remarry Game + Update         
 If you have a mismatched Update file use this option along with the base game you have to remarry the Update file data and generate one compatible with the base game.   
         
-# 2. Merge Game + Update    
+**2. Merge Game + Update**      
 If you'd like to install a game as 1 file use this option.      
         
 # 3. Backup Backported Files    

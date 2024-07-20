@@ -62,16 +62,17 @@ Convert a save file to another region
           
 # 2. Merge Game + Update   
 1. Place the base game you have in the **Game** folder      
-Place a COMPATIBLE update file in the **Update** folder       
-Run the *PS4 v27* file and type 2 in the CMD window then press enter and wait the larger the files the longer the proccess        
+2. Place a COMPATIBLE update file in the **Update** folder       
+3. Run the *PS4 v27* file and type 2 in the CMD window then press enter and wait the larger the files the longer the proccess        
      
 # 3. Backup Backported Files        
-Place the backported pkg you have in the **Backport** folder         
-Run the *PS4 v27* file and type 3 in the CMD window then press enter and wait the larger the files the longer the proccess               
+1. Place the backported pkg you have in the **Backport** folder         
+2. Run the *PS4 v27* file and type 3 in the CMD window then press enter and wait the larger the files the longer the proccess               
      
 # 4. PS4 Rebuild PKG - Backport     
-Place the base game you have in the **Game** folder  
-Place the update file in the **Update** folder     
-Place .zip archive file you get from 3. Backup Backported Files or one you have sourced yourself       
-Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess       
+1. Place the base game you have in the **Game** folder  
+2. Place the update file in the **Update** folder     
+3. Place .zip archive file you get from *3. Backup Backported Files* or one you have sourced yourself       
+4. Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess   
+           
 THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR TO MERGE IT WITH 2. Merge Game + Update        

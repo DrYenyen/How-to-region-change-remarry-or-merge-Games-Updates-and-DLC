@@ -44,13 +44,13 @@ Unsure. :/ try it and find out :)
 # 9. Without Data DLC to Data DLC
 Unsure. :/ try it and find out :)    
       
-# 10. Data DLC to Without Data DLC
+10. Data DLC to Without Data DLC
 Unsure. :/ try it and find out :)        
       
-# 11. Update - Change Region
+11. Update - Change Region
 Change the region of a FPKG Update file (you may need the  product code region and unique number ID of both the source region and the      
         
-# 12. Save sharing between US/EU Games           
+12. Save sharing between US/EU Games           
 Convert a save file to another region         
       
 # <ins>Usage instructions<ins>                

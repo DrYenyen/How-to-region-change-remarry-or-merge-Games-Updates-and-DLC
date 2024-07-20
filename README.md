@@ -1,5 +1,13 @@
 # How-to-region-change-remarry-and-or-merge-Games-Updates-and-DLC
 How to region change, remarry and or merge Games, Updates and DLC   
+
+# Instalation 
+Download the *PS4-AiO v27.zip* and unpack it in a new folder.    
+      
+Run the *PS4-AiO v27* for the first run type *yes* and press enter.      
+          
+This folder will be used for all the workflow.    
+     
       
 # The PS4 system game structure  
 1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      

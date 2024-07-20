@@ -15,8 +15,8 @@ It is followed by a unique number ID.
 R1 USA-*CUSA*       
 R2 Europe-*CUSA*         
 R3 Asia-*PLAS*, *PCAS*    
-For example Minecraft USA is *CUSA00744* while Minecraft EU is *CUSA00265*      
-        
+         
+For example Minecraft USA is *CUSA00744* while Minecraft EU is *CUSA00265*              
 Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*     
                 
 2. Game files on the PS4 are considered *Apps* by the system and are located on the HDD inside the /user/app directory in folders reflecting their product code region and unique number ID.       

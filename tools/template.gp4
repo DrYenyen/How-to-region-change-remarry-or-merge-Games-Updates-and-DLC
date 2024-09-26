@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="gp4" version="1000">
+  <volume>
+    <volume_type>pkg_ps4_ac_data</volume_type>
+    <volume_id>PS4VOLUME</volume_id>
+    <volume_ts>2022-03-30 21:30:59</volume_ts>
+    <package content_id="" passcode=""/>
+  </volume>
+  <files img_no="0">
+    <file targ_path="sce_sys/icon0.png" orig_path="..\sce_sys\icon0.png"/>
+    <file targ_path="sce_sys/param.sfo" orig_path="..\sce_sys\param.sfo"/>
+  </files>
+  <rootdir>
+    <dir targ_name="sce_sys"/>
+  </rootdir>
+</psproject>
